@@ -1,0 +1,18 @@
+{
+  "name": "imooc-video-download",
+  "version": "0.0.1",
+  "description": "可以批量下载慕课网的视频",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "superagent": "^0.20.0"
+  },
+  "scripts": {
+    "test": "node app courseid"
+  },
+  "keywords": [
+    "imooc"
+  ],
+  "author": "Awai",
+  "license": "ISC"
+}
